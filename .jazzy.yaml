@@ -1,6 +1,6 @@
 module: KituraCORS
 author: IBM
-github_url: https://github.com/IBM-Swift/Kitura-CORS/
+github_url: https://github.com/Kitura-Next/Kitura-CORS/
 
 theme: fullwidth
 clean: true
